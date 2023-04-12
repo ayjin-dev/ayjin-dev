@@ -2,15 +2,10 @@
 
 ![](./img/background.jpg)
 
-你好，这里是十三
+Hi, you can call me Jin, I am a first year master student right now .
 
-欢迎来到十三的代码库，如果提供的代码能够对您有所启发，我非常高兴，愿与君共进。
+Welcome to my repo, if the code can inspire you, I am very happy and willing to collaborate with you.
 
-当然，和Profile描述的一样，是个**业余代码人**，写的确实不怎么好，正在埋头学习中....:books:
-
-目前所掌握的开发技术[Springboot/Django/Scrapy/Bootstrap/Vue]
-
-正在学习[Golang/Gin/Pytorch]
-
+My research areas are mobile security, Android reverse, information security, artificial intelligence model security
   
 <hr>
