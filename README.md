@@ -2,7 +2,7 @@
 
 ![](./img/background.jpg)
 
-Hi, you can call me Jin, I am a first year master student right now .
+Hi, you can call me Jin, I am a second year master student right now .
 
 Welcome to my repo, if the code can inspire you, I am very happy and willing to collaborate with you.
 
